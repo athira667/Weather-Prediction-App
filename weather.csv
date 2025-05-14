@@ -1,0 +1,15 @@
+Play,Outlook_Overcast,Outlook_Rain,Outlook_Sunny,Temperature_Cool,Temperature_Hot,Temperature_Mild,Humidity_High,Humidity_Normal,Windy_False,Windy_True
+0,False,False,True,False,True,False,True,False,True,False
+0,False,False,True,False,True,False,True,False,False,True
+1,True,False,False,False,True,False,True,False,True,False
+1,False,True,False,False,False,True,True,False,True,False
+1,False,True,False,True,False,False,False,True,True,False
+0,False,True,False,True,False,False,False,True,False,True
+1,True,False,False,True,False,False,True,False,False,True
+0,False,False,True,False,False,True,True,False,True,False
+1,False,False,True,True,False,False,False,True,True,False
+1,False,True,False,False,False,True,False,True,True,False
+1,False,False,True,False,False,True,False,True,False,True
+1,True,False,False,False,False,True,True,False,False,True
+1,True,False,False,False,True,False,False,True,True,False
+0,False,True,False,False,False,True,True,False,False,True
