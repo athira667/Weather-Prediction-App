@@ -31,3 +31,6 @@ with open('model.pkl', 'wb') as f:
 
 with open('columns.pkl', 'wb') as f:
     pickle.dump(X.columns.tolist(), f)
+# Save the dataset for EDA
+df['Play'] = y  # Add target column back for EDA
+df.to_csv('weather.csv', index=False)
